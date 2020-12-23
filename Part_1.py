@@ -13,7 +13,6 @@ for line in lines:
         results[-1].append(line)
 
 def converting(x):  
-    
     string = " "  
     joining = string.join(x)
     lines_ = joining.splitlines()
